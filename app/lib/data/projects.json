@@ -1,0 +1,3513 @@
+[
+  {
+    "proyecto": "Amara - Alma",
+    "lat": 25.680523,
+    "lng": -100.30732,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "Febrero 2026",
+    "acepta_airbnb": true,
+    "precio_desde": 2.8,
+    "precio_hasta": 7.1,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_lobby",
+      "am_petpark",
+      "am_salon_de_usos_multiples"
+    ],
+    "units": [
+      {
+        "m2": 40.35,
+        "precio_total": 2895200.34,
+        "precio_m2": 71752.17695,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 42.55,
+        "precio_total": 2907459,
+        "precio_m2": 68330.41,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 55.52,
+        "precio_total": 3715790.69,
+        "precio_m2": 68330.42,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 56.55,
+        "precio_total": 3528002.57,
+        "precio_m2": 68330.42,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 59.57,
+        "precio_total": 3868167.51,
+        "precio_m2": 64934.82474,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 61.42,
+        "precio_total": 3904146.05,
+        "precio_m2": 63564.73543,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 65.15,
+        "precio_total": 4023841.62,
+        "precio_m2": 61762.72632,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 68.02,
+        "precio_total": 4212146.47,
+        "precio_m2": 61925.11717,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 65.25,
+        "precio_total": 4248627.02,
+        "precio_m2": 65113.05778,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 73.5,
+        "precio_total": 4445294.53,
+        "precio_m2": 60480.19769,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 73.59,
+        "precio_total": 4418617.82,
+        "precio_m2": 60043.72632,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 75.43,
+        "precio_total": 4272096.32,
+        "precio_m2": 56636.56794,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 75.51,
+        "precio_total": 4274347.49,
+        "precio_m2": 56606.37651,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 81.38,
+        "precio_total": 4823911.24,
+        "precio_m2": 59276.37306,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 82.83,
+        "precio_total": 4887452,
+        "precio_m2": 59005.81915,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 86.94,
+        "precio_total": 5199112.78,
+        "precio_m2": 59801.15919,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 87.81,
+        "precio_total": 5241658.52,
+        "precio_m2": 59693.18438,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 88.5,
+        "precio_total": 5155832.44,
+        "precio_m2": 58257.99367,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 89,
+        "precio_total": 5143592.61,
+        "precio_m2": 57793.17539,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 81.38,
+        "precio_total": 4771289.48,
+        "precio_m2": 58629.75522,
+        "recamaras": null,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 90.54,
+        "precio_total": 4805499.94,
+        "precio_m2": 53075.98785,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 94.53,
+        "precio_total": 5430768.49,
+        "precio_m2": 57450.21147,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 94.6,
+        "precio_total": 5414675.7,
+        "precio_m2": 57237.58668,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 95.64,
+        "precio_total": 4949020.51,
+        "precio_m2": 51746.34578,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 126.2,
+        "precio_total": 6838285.79,
+        "precio_m2": 54186.09976,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 130.02,
+        "precio_total": 6876450.25,
+        "precio_m2": 52887.63459,
+        "recamaras": 3,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 134,
+        "precio_total": 7129792.43,
+        "precio_m2": 53207.40619,
+        "recamaras": 3,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 155.27,
+        "precio_total": 7419558.35,
+        "precio_m2": 47784.88021,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 166,
+        "precio_total": 8004006.11,
+        "precio_m2": 48216.90428,
+        "recamaras": null,
+        "forma_de_entrega": "Semi -equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Amara - La Torre",
+    "lat": 25.681325,
+    "lng": -100.307404,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "Febrero 2026",
+    "acepta_airbnb": true,
+    "precio_desde": 2.8,
+    "precio_hasta": 7.1,
+    "recamaras": [],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_lobby",
+      "am_petpark",
+      "am_salon_de_usos_multiples"
+    ],
+    "units": [
+      {
+        "m2": 57,
+        "precio_total": 3847886.99,
+        "precio_m2": 67506.7893,
+        "recamaras": null,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 72.27,
+        "precio_total": 4411902.99,
+        "precio_m2": 61047.50228,
+        "recamaras": null,
+        "forma_de_entrega": "Semi -equipado"
+      },
+      {
+        "m2": 93.75,
+        "precio_total": 5223988,
+        "precio_m2": 55722.53867,
+        "recamaras": null,
+        "forma_de_entrega": "Semi -equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Arena Calzada",
+    "lat": 25.682106,
+    "lng": -100.307655,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Verano 2023",
+    "acepta_airbnb": true,
+    "precio_desde": 2.7,
+    "precio_hasta": 3.2,
+    "recamaras": [2],
+    "amenidades": [
+      "am_cowork",
+      "am_gym",
+      "am_petpark",
+      "am_terraza",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 66,
+        "precio_total": 2960308,
+        "precio_m2": 44853.15152,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 67,
+        "precio_total": 3200693,
+        "precio_m2": 47771.53731,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 59,
+        "precio_total": 2791156,
+        "precio_m2": 47307.72,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 70,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Aria",
+    "lat": 25.682847,
+    "lng": -100.308065,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Julio 2025",
+    "acepta_airbnb": false,
+    "precio_desde": 2.2,
+    "precio_hasta": 4.3,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_gym",
+      "am_asadores",
+      "am_paqueteria",
+      "am_kids_park",
+      "am_petpark",
+      "am_salon_de_eventos"
+    ],
+    "units": [
+      {
+        "m2": 46,
+        "precio_total": 2384698,
+        "precio_m2": 51841.26087,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 49,
+        "precio_total": 2679689,
+        "precio_m2": 54687.53061,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 50,
+        "precio_total": 2977690,
+        "precio_m2": 59553.8,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 76,
+        "precio_total": 3932204,
+        "precio_m2": 51739.52632,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 78,
+        "precio_total": 3648219,
+        "precio_m2": 46772.03846,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 75,
+        "precio_total": 3632056,
+        "precio_m2": 48427.41333,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 90,
+        "precio_total": 4262859,
+        "precio_m2": 47365.1,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 92.42,
+        "precio_total": 4364981,
+        "precio_m2": 47229.83121,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 48.59,
+        "precio_total": 2739121,
+        "precio_m2": 56372.1136,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 38,
+        "precio_total": 2221373,
+        "precio_m2": 58457.18421,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Atiko",
+    "lat": 25.683527,
+    "lng": -100.308624,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Primer Semestre del 2024",
+    "acepta_airbnb": false,
+    "precio_desde": 2.8,
+    "precio_hasta": 3.9,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_ludoteca",
+      "am_suite_de_visitas",
+      "am_areas_verdes",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 63,
+        "precio_total": 3968094,
+        "precio_m2": 62985.61905,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 47,
+        "precio_total": 3321494,
+        "precio_m2": 70670.08511,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 37,
+        "precio_total": 2866264,
+        "precio_m2": 77466.59459,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Barrio Vergel",
+    "lat": 25.684129,
+    "lng": -100.309317,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": true,
+    "precio_desde": 4.3,
+    "precio_hasta": 6.4,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_terraza",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 75.67,
+        "precio_total": 4338616,
+        "precio_m2": 57336.01,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 90,
+        "precio_total": 5513608,
+        "precio_m2": 61262.31111,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 100.92,
+        "precio_total": 5759060,
+        "precio_m2": 57065.59651,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 75.67,
+        "precio_total": 4338616,
+        "precio_m2": 57336.01163,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 102.98,
+        "precio_total": 6465525,
+        "precio_m2": 62784.27,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Barrio W",
+    "lat": 25.684638,
+    "lng": -100.310128,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": null,
+    "acepta_airbnb": true,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": ["am_cowork", "am_gym", "am_terraza", "am_cine", "am_arcade"],
+    "units": [
+      {
+        "m2": 25,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 84.5,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Casa castelo",
+    "lat": 25.68504,
+    "lng": -100.311033,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": null,
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [2, 3],
+    "amenidades": ["am_cowork", "am_terraza", "am_areas_verdes"],
+    "units": [
+      {
+        "m2": 70.05,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 3,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 68.03,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 63.59,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 51.16,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Colonia - Torre I",
+    "lat": 25.685326,
+    "lng": -100.312012,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": null,
+    "acepta_airbnb": false,
+    "precio_desde": 2.5,
+    "precio_hasta": 4,
+    "recamaras": [],
+    "amenidades": [
+      "am_cowork",
+      "am_gym",
+      "am_bar",
+      "am_kids_park",
+      "am_lobby",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_salon_culinario",
+      "am_ludoteca",
+      "am_fogatero",
+      "am_rack_de_bicicletas",
+      "am_cancha",
+      "am_lavanderia",
+      "am_cuarto_de_herramientas",
+      "am_sala_lounge",
+      "am_vitapista",
+      "am_cine"
+    ],
+    "units": [
+      {
+        "m2": 48.62,
+        "precio_total": 2589246.72,
+        "precio_m2": 53254.76594,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 27.98,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 37.18,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 39.13,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 48.18,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 61.35,
+        "precio_total": 3045314.19,
+        "precio_m2": 49638.37311,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 66.16,
+        "precio_total": 3248340.73,
+        "precio_m2": 49098.25771,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 68.3,
+        "precio_total": 3338456.37,
+        "precio_m2": 48879.30264,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 76.9,
+        "precio_total": 3641600.77,
+        "precio_m2": 47355.01651,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 84.95,
+        "precio_total": 3858487.24,
+        "precio_m2": 45420.68558,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "El patriota",
+    "lat": 25.685487,
+    "lng": -100.313037,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Julio/Agosto 2023",
+    "acepta_airbnb": false,
+    "precio_desde": 2,
+    "precio_hasta": 3.1,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_asadores",
+      "am_bar",
+      "am_seguridad",
+      "am_lobby",
+      "am_petfriendly",
+      "am_rack_de_bicicletas",
+      "am_ciclopista",
+      "am_terraza"
+    ],
+    "units": [
+      {
+        "m2": 63.57,
+        "precio_total": 2839957,
+        "precio_m2": 44674.48482,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 61.35,
+        "precio_total": 2811306,
+        "precio_m2": 45824.05868,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 34.87,
+        "precio_total": 2001384,
+        "precio_m2": 57395.5836,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 30.72,
+        "precio_total": 1865999,
+        "precio_m2": 60742.15495,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 30.25,
+        "precio_total": 1861581,
+        "precio_m2": 61539.86777,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 30.08,
+        "precio_total": 1990660,
+        "precio_m2": 66178.85638,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra Blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Gran Ancira",
+    "lat": 25.685519,
+    "lng": -100.314082,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Diciembre 2025",
+    "acepta_airbnb": false,
+    "precio_desde": 3.5,
+    "precio_hasta": 8.3,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_kids_park",
+      "am_salon_de_eventos",
+      "am_salon_de_usos_multiples",
+      "am_fogatero",
+      "am_cine",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 52,
+        "precio_total": 3500000,
+        "precio_m2": 67307.69231,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 117,
+        "precio_total": 8300000,
+        "precio_m2": 70940.17094,
+        "recamaras": 3,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 78,
+        "precio_total": 6400000,
+        "precio_m2": 82051.28205,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 104,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Héroes 47",
+    "lat": 25.685422,
+    "lng": -100.31512,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": 3.6,
+    "precio_hasta": 4.6,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_salon_de_eventos",
+      "am_ludoteca",
+      "am_rack_de_bicicletas",
+      "am_terraza",
+      "am_sala_lounge",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 75,
+        "precio_total": 4219190,
+        "precio_m2": 56255.86667,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 90,
+        "precio_total": 4646430,
+        "precio_m2": 51627,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 77,
+        "precio_total": 4265372,
+        "precio_m2": 55394.44156,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 54,
+        "precio_total": 3618945,
+        "precio_m2": 67017.5,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Iconicah",
+    "lat": 25.685198,
+    "lng": -100.316125,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": null,
+    "acepta_airbnb": false,
+    "precio_desde": 3.3,
+    "precio_hasta": 5.3,
+    "recamaras": [],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 62,
+        "precio_total": 3382563.4,
+        "precio_m2": 54557.47419,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 77,
+        "precio_total": 4175665.04,
+        "precio_m2": 54229.4161,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 88,
+        "precio_total": 4151566.65,
+        "precio_m2": 47176.89375,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 104,
+        "precio_total": 5386771.12,
+        "precio_m2": 51795.87615,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Inner Tower I",
+    "lat": 25.684853,
+    "lng": -100.31707,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": true,
+    "precio_desde": 2.7,
+    "precio_hasta": 4.1,
+    "recamaras": [],
+    "amenidades": ["am_alberca", "am_cowork", "am_gym", "am_salon_social"],
+    "units": [
+      {
+        "m2": 67.79,
+        "precio_total": 3972466.86,
+        "precio_m2": 58599.59965,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 44.1,
+        "precio_total": 2775550.62,
+        "precio_m2": 62937.65578,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 49.5,
+        "precio_total": 3213299.36,
+        "precio_m2": 64915.13859,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Inner Tower II",
+    "lat": 25.684396,
+    "lng": -100.317931,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": true,
+    "precio_desde": 2.7,
+    "precio_hasta": 4.1,
+    "recamaras": [],
+    "amenidades": ["am_alberca", "am_gym", "am_bar"],
+    "units": [
+      {
+        "m2": 59.26,
+        "precio_total": 3655423.35,
+        "precio_m2": 61684.49798,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 59.26,
+        "precio_total": 3665322.38,
+        "precio_m2": 61851.54202,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Kyo Aluna",
+    "lat": 25.683839,
+    "lng": -100.318685,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Noviembre 2023",
+    "acepta_airbnb": false,
+    "precio_desde": 3.7,
+    "precio_hasta": 4.5,
+    "recamaras": [3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_lobby",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_ludoteca",
+      "am_terraza",
+      "am_areas_verdes",
+      "am_cine"
+    ],
+    "units": [
+      {
+        "m2": 96,
+        "precio_total": 4500000,
+        "precio_m2": 46875,
+        "recamaras": null,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 72,
+        "precio_total": 3700000,
+        "precio_m2": 51388.88889,
+        "recamaras": 3,
+        "forma_de_entrega": "Terminado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Kyo Constella",
+    "lat": 25.683195,
+    "lng": -100.319314,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": 2.8,
+    "precio_hasta": 2.8,
+    "recamaras": [2],
+    "amenidades": [
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_beer_garden",
+      "am_huerto",
+      "am_fogatero",
+      "am_cuartos_de_huespedes",
+      "am_area_de_yoga",
+      "am_areas_verdes",
+      "am_cine",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 65,
+        "precio_total": 2860000,
+        "precio_m2": 44000,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 36,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 51,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "LALO",
+    "lat": 25.682483,
+    "lng": -100.3198,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "2024",
+    "acepta_airbnb": false,
+    "precio_desde": 4.9,
+    "precio_hasta": 12.8,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_kids_park",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_salon_de_entretenimiento",
+      "am_ludoteca",
+      "am_terraza"
+    ],
+    "units": [
+      {
+        "m2": 69.32,
+        "precio_total": 4410664,
+        "precio_m2": 63627.58223,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 93,
+        "precio_total": 5730978,
+        "precio_m2": 61623.41935,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 82,
+        "precio_total": 5784427,
+        "precio_m2": 70541.79268,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 76.22,
+        "precio_total": 4829299,
+        "precio_m2": 63359.99738,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 94,
+        "precio_total": 6417624,
+        "precio_m2": 68272.59574,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 77.33,
+        "precio_total": 5375981,
+        "precio_m2": 69519.99224,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 70.51,
+        "precio_total": 5341781,
+        "precio_m2": 75759.19728,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 34,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Libertad HO",
+    "lat": 25.68172,
+    "lng": -100.320131,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Finales del 2024 fase H",
+    "acepta_airbnb": false,
+    "precio_desde": 4.5,
+    "precio_hasta": 5.6,
+    "recamaras": [2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_salon_social",
+      "am_fogatero",
+      "am_terraza",
+      "am_cine",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 83.74,
+        "precio_total": 5652450,
+        "precio_m2": 67500,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 70.33,
+        "precio_total": 4807330,
+        "precio_m2": 68353.90303,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 64.56,
+        "precio_total": 4519860,
+        "precio_m2": 70010.22305,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Mirall",
+    "lat": 25.680925,
+    "lng": -100.320299,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Finales de año 2023",
+    "acepta_airbnb": false,
+    "precio_desde": 3.3,
+    "precio_hasta": 4.9,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_paqueteria",
+      "am_kids_park",
+      "am_biblioteca",
+      "am_salon_de_eventos",
+      "am_ludoteca",
+      "am_terraza"
+    ],
+    "units": [
+      {
+        "m2": 101.15,
+        "precio_total": 4973514.63,
+        "precio_m2": 49169.69481,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 77.61,
+        "precio_total": 4245861,
+        "precio_m2": 54707.65365,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 52.86,
+        "precio_total": 3343560,
+        "precio_m2": 63253.12145,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 85.83,
+        "precio_total": 4334497.14,
+        "precio_m2": 50500.95701,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 97.48,
+        "precio_total": 4641169,
+        "precio_m2": 47611.49979,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 84.38,
+        "precio_total": 4345449,
+        "precio_m2": 51498.56601,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 72.66,
+        "precio_total": 4187183.11,
+        "precio_m2": 57627.0728,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 59.55,
+        "precio_total": 3443062.46,
+        "precio_m2": 57818.0094,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra Blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Mitt",
+    "lat": 25.680121,
+    "lng": -100.320299,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": 3,
+    "precio_hasta": 3.9,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_petfriendly",
+      "am_petpark",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 68.24,
+        "precio_total": 3723294,
+        "precio_m2": 54561.75264,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 55.77,
+        "precio_total": 3143343,
+        "precio_m2": 56362.61431,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 70.28,
+        "precio_total": 3879251,
+        "precio_m2": 55197.0831,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 50.43,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 65,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Moca Amarillo 247",
+    "lat": 25.679326,
+    "lng": -100.320131,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "2026",
+    "acepta_airbnb": false,
+    "precio_desde": 2.7,
+    "precio_hasta": 4.1,
+    "recamaras": [1],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_salon_social",
+      "am_terraza",
+      "am_cine"
+    ],
+    "units": [
+      {
+        "m2": 65.29,
+        "precio_total": 3809671,
+        "precio_m2": 58349.99234,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 54.36,
+        "precio_total": 4153104,
+        "precio_m2": 76400,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 31.35,
+        "precio_total": 2774475,
+        "precio_m2": 88500,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Moca Azul 377",
+    "lat": 25.678563,
+    "lng": -100.3198,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "2026",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [1],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_kids_park",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_social",
+      "am_salon_de_usos_multiples",
+      "am_ludoteca",
+      "am_areas_verdes",
+      "am_cine"
+    ],
+    "units": [
+      {
+        "m2": 82.98,
+        "precio_total": 5455945,
+        "precio_m2": 65750.12051,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 51.8,
+        "precio_total": 4451903,
+        "precio_m2": 85944.07336,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Moca Verde 490",
+    "lat": 25.677851,
+    "lng": -100.319314,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "2026",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_bar",
+      "am_kids_park",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_culinario",
+      "am_salon_social",
+      "am_salon_de_usos_multiples",
+      "am_ludoteca",
+      "am_fogatero"
+    ],
+    "units": [
+      {
+        "m2": 80.35,
+        "precio_total": 5090719,
+        "precio_m2": 63356.80149,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 51.1,
+        "precio_total": 4244340,
+        "precio_m2": 83059.49119,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Monteleva",
+    "lat": 25.677207,
+    "lng": -100.318685,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Departamentos",
+    "fecha_de_entrega": "Octubre 2023",
+    "acepta_airbnb": false,
+    "precio_desde": 2,
+    "precio_hasta": 2.9,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_kids_park",
+      "am_salon_social",
+      "am_ludoteca",
+      "am_terraza",
+      "am_areas_verdes",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 65.73,
+        "precio_total": 2974850,
+        "precio_m2": 45258.6338,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 59.38,
+        "precio_total": 2526150,
+        "precio_m2": 42542.1,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 55.82,
+        "precio_total": 2474750,
+        "precio_m2": 44334.46,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 41.43,
+        "precio_total": 2028200,
+        "precio_m2": 48954.86363,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Novus Fundidora",
+    "lat": 25.67665,
+    "lng": -100.317931,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Junio 2025",
+    "acepta_airbnb": false,
+    "precio_desde": 4.5,
+    "precio_hasta": 7.8,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_kids_park",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_social",
+      "am_ludoteca",
+      "am_fogatero",
+      "am_cancha",
+      "am_terraza",
+      "am_sala_lounge",
+      "am_cine"
+    ],
+    "units": [
+      {
+        "m2": 82.24,
+        "precio_total": 6310000,
+        "precio_m2": 76726.6537,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 54.65,
+        "precio_total": 4590000,
+        "precio_m2": 83989.02104,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 91.93,
+        "precio_total": 7950000,
+        "precio_m2": 86478.8426,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 59.88,
+        "precio_total": 5660000,
+        "precio_m2": 94522.37809,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 64.92,
+        "precio_total": 5670000,
+        "precio_m2": 87338.26248,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 53.08,
+        "precio_total": 4690000,
+        "precio_m2": 88357.19668,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 52.99,
+        "precio_total": 5480000,
+        "precio_m2": 103415.7388,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "PARQ Santa Lucia",
+    "lat": 25.676193,
+    "lng": -100.31707,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Julio 2026",
+    "acepta_airbnb": false,
+    "precio_desde": 4,
+    "precio_hasta": 6.8,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_kids_park",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_usos_multiples",
+      "am_sala_lounge"
+    ],
+    "units": [
+      {
+        "m2": 70,
+        "precio_total": 4249080,
+        "precio_m2": 60701.14286,
+        "recamaras": 3,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 74,
+        "precio_total": 4749300,
+        "precio_m2": 64179.72973,
+        "recamaras": 3,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 60,
+        "precio_total": 4054200,
+        "precio_m2": 67570,
+        "recamaras": 2,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 82,
+        "precio_total": 5748060,
+        "precio_m2": 70098.29268,
+        "recamaras": 3,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 58,
+        "precio_total": 4454080,
+        "precio_m2": 76794.48276,
+        "recamaras": 2,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 87,
+        "precio_total": 4919850,
+        "precio_m2": 56550,
+        "recamaras": 2,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 45,
+        "precio_total": 2884050,
+        "precio_m2": 64090,
+        "recamaras": 1,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 35,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 55,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "No especificado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Pórtiko",
+    "lat": 25.675848,
+    "lng": -100.316125,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "2026",
+    "acepta_airbnb": false,
+    "precio_desde": 2.8,
+    "precio_hasta": 4.1,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_cowork",
+      "am_gym",
+      "am_bar",
+      "am_paqueteria",
+      "am_kids_park",
+      "am_lobby",
+      "am_petfriendly",
+      "am_petpark",
+      "am_sky_view",
+      "am_areas_verdes",
+      "am_cine",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 63.87,
+        "precio_total": 4100761,
+        "precio_m2": 64204.80664,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 59.44,
+        "precio_total": 3940912,
+        "precio_m2": 66300.67295,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 39.87,
+        "precio_total": 2843268,
+        "precio_m2": 71313.46877,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 48.28,
+        "precio_total": 3452870,
+        "precio_m2": 71517.60563,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Punta Acero",
+    "lat": 25.675624,
+    "lng": -100.31512,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": true,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [3],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 137.27,
+        "precio_total": 9300000,
+        "precio_m2": 67749.69039,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 80.87,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 133.97,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra Blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Republica",
+    "lat": 25.675527,
+    "lng": -100.314082,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": 3.2,
+    "precio_hasta": 4.5,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_salon_culinario",
+      "am_ludoteca",
+      "am_simulador_virtual",
+      "am_sala_lounge",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 55.95,
+        "precio_total": 3310000,
+        "precio_m2": 59159.96425,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 67.23,
+        "precio_total": 3980000,
+        "precio_m2": 59199.76201,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 64.94,
+        "precio_total": 3920000,
+        "precio_m2": 60363.41238,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 56.35,
+        "precio_total": 3420000,
+        "precio_m2": 60692.10293,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 82.37,
+        "precio_total": 4450000,
+        "precio_m2": 54024.52349,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 82.74,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Semillero Madero",
+    "lat": 25.675559,
+    "lng": -100.313037,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": 2,
+    "precio_hasta": 3.3,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_petfriendly",
+      "am_salon_de_eventos",
+      "am_huerto",
+      "am_fogatero",
+      "am_terraza",
+      "am_area_de_yoga",
+      "am_cine"
+    ],
+    "units": [
+      {
+        "m2": 59.11,
+        "precio_total": 2987578,
+        "precio_m2": 50542.68313,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 68.26,
+        "precio_total": 3524959.63,
+        "precio_m2": 51640.19382,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 53.42,
+        "precio_total": 3671775.5,
+        "precio_m2": 68734.09772,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 62.37,
+        "precio_total": 3251366.63,
+        "precio_m2": 52130.2971,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 46.53,
+        "precio_total": 2695490.68,
+        "precio_m2": 57930.1672,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 50.45,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 66.71,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Semillero Mediterraneo",
+    "lat": 25.67572,
+    "lng": -100.312012,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "Febrero 2026",
+    "acepta_airbnb": false,
+    "precio_desde": 2.1,
+    "precio_hasta": 4.9,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_kids_park",
+      "am_lobby",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_usos_multiples",
+      "am_cancha",
+      "am_terraza",
+      "am_area_de_yoga",
+      "am_areas_verdes",
+      "am_cine"
+    ],
+    "units": [
+      {
+        "m2": 63,
+        "precio_total": 3400731,
+        "precio_m2": 53979.85714,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 78.19,
+        "precio_total": 3741555.11,
+        "precio_m2": 47852.09247,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 41.26,
+        "precio_total": 2640673,
+        "precio_m2": 64000.79981,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 88.26,
+        "precio_total": 4204656.73,
+        "precio_m2": 47639.43723,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 74.83,
+        "precio_total": 4209088,
+        "precio_m2": 56248.67032,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 50.78,
+        "precio_total": 2977545,
+        "precio_m2": 58636.17566,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 48,
+        "precio_total": 2740240,
+        "precio_m2": 57088.33333,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 40,
+        "precio_total": 2553530,
+        "precio_m2": 63838.25,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 29,
+        "precio_total": 2076050,
+        "precio_m2": 71587.93103,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Semillero Purisima",
+    "lat": 25.676006,
+    "lng": -100.311033,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": ["am_salon_de_usos_multiples"],
+    "units": [
+      {
+        "m2": 94,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Sohl",
+    "lat": 25.676408,
+    "lng": -100.310128,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "2026",
+    "acepta_airbnb": false,
+    "precio_desde": 6.1,
+    "precio_hasta": 24.8,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_bar",
+      "am_salon_de_usos_multiples",
+      "am_ludoteca",
+      "am_terraza",
+      "am_sala_lounge",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 80,
+        "precio_total": 7063552.5,
+        "precio_m2": 88294.40625,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 77,
+        "precio_total": 6504146,
+        "precio_m2": 84469.42857,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 38,
+        "precio_total": 3517998,
+        "precio_m2": 92578.89474,
+        "recamaras": 1,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 79,
+        "precio_total": 7115589,
+        "precio_m2": 90070.74684,
+        "recamaras": 2,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 30,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 59,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 249,
+        "precio_total": 24869030,
+        "precio_m2": 99875.62249,
+        "recamaras": 3,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 118,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Titan Apolo",
+    "lat": 25.676917,
+    "lng": -100.309317,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": null,
+    "acepta_airbnb": false,
+    "precio_desde": 1.9,
+    "precio_hasta": 3.4,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_asadores",
+      "am_petpark",
+      "am_salon_social",
+      "am_salon_de_usos_multiples",
+      "am_cancha",
+      "am_areas_verdes"
+    ],
+    "units": [
+      {
+        "m2": 77,
+        "precio_total": 3136994,
+        "precio_m2": 40740.18182,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 66,
+        "precio_total": 2897742.2,
+        "precio_m2": 43905.18485,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 37,
+        "precio_total": 1907751.94,
+        "precio_m2": 51560.86324,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 62,
+        "precio_total": 2636871.13,
+        "precio_m2": 42530.17952,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 56,
+        "precio_total": 2445103,
+        "precio_m2": 43662.55357,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra Blanca"
+      },
+      {
+        "m2": 33,
+        "precio_total": 1762449,
+        "precio_m2": 53407.54545,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra Blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Torre Rise",
+    "lat": 25.677519,
+    "lng": -100.308624,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": "Usos Mixtos",
+    "fecha_de_entrega": "2026",
+    "acepta_airbnb": false,
+    "precio_desde": 4.9,
+    "precio_hasta": 10.5,
+    "recamaras": [1, 2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_salon_culinario",
+      "am_simulador_virtual"
+    ],
+    "units": [
+      {
+        "m2": 114.37,
+        "precio_total": 9790000,
+        "precio_m2": 85599.37046,
+        "recamaras": 3,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 119.91,
+        "precio_total": 10595000,
+        "precio_m2": 88357.93512,
+        "recamaras": 2,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 60.08,
+        "precio_total": 5590000,
+        "precio_m2": 93042.60985,
+        "recamaras": 1,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 75,
+        "precio_total": 7140000,
+        "precio_m2": 95200,
+        "recamaras": 2,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 50.49,
+        "precio_total": 4950000,
+        "precio_m2": 98039.21569,
+        "recamaras": 1,
+        "forma_de_entrega": "No especificado"
+      },
+      {
+        "m2": 85.61,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "No especificado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Torres Platinum en Centrika",
+    "lat": 25.678199,
+    "lng": -100.308065,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": 3.6,
+    "precio_hasta": 3.9,
+    "recamaras": [2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_gym",
+      "am_asadores",
+      "am_kids_park",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_ludoteca",
+      "am_terraza"
+    ],
+    "units": [
+      {
+        "m2": 99.08,
+        "precio_total": 4010000,
+        "precio_m2": 40472.34558,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 98.08,
+        "precio_total": 4070000,
+        "precio_m2": 41496.73736,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 81,
+        "precio_total": 3600000,
+        "precio_m2": 44444.44444,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 85.68,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Una",
+    "lat": 25.67894,
+    "lng": -100.307655,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Marzo 2024",
+    "acepta_airbnb": false,
+    "precio_desde": 3,
+    "precio_hasta": 4.4,
+    "recamaras": [2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_sala_lounge",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 73.74,
+        "precio_total": 3840000,
+        "precio_m2": 52074.85761,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 71.69,
+        "precio_total": 4020000,
+        "precio_m2": 56074.76636,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 69.92,
+        "precio_total": 4460000,
+        "precio_m2": 63787.18535,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 52.13,
+        "precio_total": 3360000,
+        "precio_m2": 64454.24899,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 83.13,
+        "precio_total": 4590000,
+        "precio_m2": 55214.72393,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 49.49,
+        "precio_total": 3370000,
+        "precio_m2": 68094.56456,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 38,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 40.15,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 48.74,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 72.88,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca plus"
+      },
+      {
+        "m2": 75.22,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca plus"
+      }
+    ]
+  },
+  {
+    "proyecto": "Vía Zócalo - Fase 2",
+    "lat": 25.679721,
+    "lng": -100.307404,
+    "municipio": "Monterrey",
+    "zona": null,
+    "zona_ciudad": "Centro",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "2025",
+    "acepta_airbnb": false,
+    "precio_desde": 3.9,
+    "precio_hasta": 7.9,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_kids_park",
+      "am_lobby",
+      "am_petfriendly",
+      "am_salon_de_eventos",
+      "am_salon_culinario",
+      "am_ludoteca",
+      "am_terraza",
+      "am_cine",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 60,
+        "precio_total": 4523040,
+        "precio_m2": 75384,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 50,
+        "precio_total": 3956480,
+        "precio_m2": 79129.6,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 70,
+        "precio_total": 4930800,
+        "precio_m2": 70440,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 80,
+        "precio_total": 5608400,
+        "precio_m2": 70105,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Boreal Torre 2",
+    "lat": 25.612129,
+    "lng": -100.152003,
+    "municipio": null,
+    "zona": "Valle Oriente",
+    "zona_ciudad": "Oriente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Julio 2024",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 90,
+        "precio_total": 6700000,
+        "precio_m2": 74444.44444,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 110,
+        "precio_total": 7700000,
+        "precio_m2": 70000,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Boreal Torre 3",
+    "lat": 25.617129,
+    "lng": -100.158503,
+    "municipio": null,
+    "zona": "Valle Oriente",
+    "zona_ciudad": "Oriente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Enero 2025",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 52,
+        "precio_total": 4400000,
+        "precio_m2": 84615.38462,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 67,
+        "precio_total": 5300000,
+        "precio_m2": 79104.47761,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 79,
+        "precio_total": 5900000,
+        "precio_m2": 74683.5443,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 85,
+        "precio_total": 6500000,
+        "precio_m2": 76470.58824,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 102,
+        "precio_total": 7300000,
+        "precio_m2": 71568.62745,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Lativ",
+    "lat": 25.612129,
+    "lng": -100.165003,
+    "municipio": null,
+    "zona": "Valle Oriente",
+    "zona_ciudad": "Oriente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Enero 2026",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 56.64,
+        "precio_total": 9060000,
+        "precio_m2": 159957.62,
+        "recamaras": null,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 72.24,
+        "precio_total": 11260000,
+        "precio_m2": 155869.32,
+        "recamaras": null,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 152.6,
+        "precio_total": 20850000,
+        "precio_m2": 136631.71,
+        "recamaras": null,
+        "forma_de_entrega": "Equipado"
+      },
+      {
+        "m2": 176.44,
+        "precio_total": 23590000,
+        "precio_m2": 133699.84,
+        "recamaras": null,
+        "forma_de_entrega": "Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Montevo",
+    "lat": 25.607129,
+    "lng": -100.158503,
+    "municipio": null,
+    "zona": "Valle Oriente",
+    "zona_ciudad": "Oriente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": null,
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 43,
+        "precio_total": 3243139,
+        "precio_m2": 75421.83721,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 57,
+        "precio_total": 3974265,
+        "precio_m2": 69723.94737,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 65,
+        "precio_total": 4586249,
+        "precio_m2": 70557.67692,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 75,
+        "precio_total": 5589281,
+        "precio_m2": 74523.74667,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Jardin Secreto",
+    "lat": 25.663232,
+    "lng": -100.451418,
+    "municipio": null,
+    "zona": "Valle Poniente",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [1, 2],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 57,
+        "precio_total": 4300000,
+        "precio_m2": 75438.59649,
+        "recamaras": 1,
+        "forma_de_entrega": "Totalmente equipado"
+      },
+      {
+        "m2": 66,
+        "precio_total": 4500000,
+        "precio_m2": 68181.81818,
+        "recamaras": 1,
+        "forma_de_entrega": "Totalmente equipado"
+      },
+      {
+        "m2": 77,
+        "precio_total": 4800000,
+        "precio_m2": 62337.66234,
+        "recamaras": 1,
+        "forma_de_entrega": "Totalmente equipado"
+      },
+      {
+        "m2": 88,
+        "precio_total": 5500000,
+        "precio_m2": 62500,
+        "recamaras": 1,
+        "forma_de_entrega": "Totalmente equipado"
+      },
+      {
+        "m2": 107,
+        "precio_total": 6900000,
+        "precio_m2": 64485.98131,
+        "recamaras": 2,
+        "forma_de_entrega": "Totalmente equipado"
+      },
+      {
+        "m2": 126,
+        "precio_total": 7900000,
+        "precio_m2": 62698.4127,
+        "recamaras": 2,
+        "forma_de_entrega": "Totalmente equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "WEST",
+    "lat": 25.667987,
+    "lng": -100.455909,
+    "municipio": null,
+    "zona": "Valle Poniente",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": ".",
+    "fecha_de_entrega": "2025",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_kids_park",
+      "am_beer_garden",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_salon_social",
+      "am_salon_de_usos_multiples",
+      "am_ludoteca",
+      "am_cancha",
+      "am_sala_lounge",
+      "am_areas_verdes",
+      "am_cine",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 79,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 1,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 117,
+        "precio_total": 10150000,
+        "precio_m2": 86752.13675,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 130,
+        "precio_total": 10240000,
+        "precio_m2": 78769.23077,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 142,
+        "precio_total": 10950000,
+        "precio_m2": 77112.67606,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 156,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 181,
+        "precio_total": 12750000,
+        "precio_m2": 70441.98895,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Torre Mun",
+    "lat": 25.666171,
+    "lng": -100.463177,
+    "municipio": null,
+    "zona": "Valle Poniente",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Primer trimestre 2024",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_lobby",
+      "am_petfriendly",
+      "am_salon_de_eventos",
+      "am_ludoteca",
+      "am_arenero",
+      "am_terraza",
+      "am_sala_lounge",
+      "am_area_de_yoga"
+    ],
+    "units": [
+      {
+        "m2": 77,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 92,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 111,
+        "precio_total": 7673428,
+        "precio_m2": 69129.98198,
+        "recamaras": 3,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 126,
+        "precio_total": 8007843,
+        "precio_m2": 63554.30952,
+        "recamaras": 3,
+        "forma_de_entrega": "Terminado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Kanat",
+    "lat": 25.664503,
+    "lng": -100.12158,
+    "municipio": null,
+    "zona": "Huasteca",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": "E",
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_gym",
+      "am_asadores",
+      "am_bar",
+      "am_kids_park",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_culinario",
+      "am_fogatero",
+      "am_sala_lounge",
+      "am_areas_verdes",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 60,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 1,
+        "forma_de_entrega": "Semi Equipado"
+      },
+      {
+        "m2": 69.86,
+        "precio_total": 5500000,
+        "precio_m2": 78728.88634,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi Equipado"
+      },
+      {
+        "m2": 70.16,
+        "precio_total": 5300000,
+        "precio_m2": 75541.61916,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi Equipado"
+      },
+      {
+        "m2": 84.58,
+        "precio_total": 6360000,
+        "precio_m2": 75195.08158,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi Equipado"
+      },
+      {
+        "m2": 91,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Semi Equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Murania",
+    "lat": 25.668833,
+    "lng": -100.12483,
+    "municipio": null,
+    "zona": "Huasteca",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Verano 2026",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [1, 2],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_asadores",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_salon_social",
+      "am_ludoteca",
+      "am_terraza",
+      "am_sala_lounge"
+    ],
+    "units": [
+      {
+        "m2": 60,
+        "precio_total": 5120000,
+        "precio_m2": 85333.33333,
+        "recamaras": 1,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 82,
+        "precio_total": 6620000,
+        "precio_m2": 80731.70732,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 102,
+        "precio_total": 8200000,
+        "precio_m2": 80392.15686,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Kima",
+    "lat": 25.668833,
+    "lng": -100.13133,
+    "municipio": null,
+    "zona": "Huasteca",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [2],
+    "amenidades": [
+      "am_alberca",
+      "am_gym",
+      "am_asadores",
+      "am_kids_park",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_de_eventos",
+      "am_salon_culinario",
+      "am_fogatero",
+      "am_cancha",
+      "am_simulador_virtual",
+      "am_areas_verdes",
+      "am_cine"
+    ],
+    "units": [
+      {
+        "m2": 107.32,
+        "precio_total": 6650000,
+        "precio_m2": 61964.21916,
+        "recamaras": 2,
+        "forma_de_entrega": "Totalmente equipado"
+      },
+      {
+        "m2": 81.78,
+        "precio_total": 5460000,
+        "precio_m2": 66764.4901,
+        "recamaras": 2,
+        "forma_de_entrega": "Totalmente equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Las Huastecas",
+    "lat": 25.664503,
+    "lng": -100.13458,
+    "municipio": null,
+    "zona": "Huasteca",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [2, 3],
+    "amenidades": [
+      "am_alberca",
+      "am_cowork",
+      "am_gym",
+      "am_kids_park",
+      "am_biblioteca",
+      "am_lobby",
+      "am_petfriendly",
+      "am_petpark",
+      "am_salon_culinario",
+      "am_salon_social",
+      "am_ludoteca",
+      "am_ciclopista",
+      "am_cancha",
+      "am_terraza",
+      "am_sala_lounge",
+      "am_vitapista",
+      "am_area_de_yoga",
+      "am_areas_verdes",
+      "am_arcade"
+    ],
+    "units": [
+      {
+        "m2": 94,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 116,
+        "precio_total": 6996444,
+        "precio_m2": 60314.17241,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 124,
+        "precio_total": 7390488,
+        "precio_m2": 59600.70968,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 132,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 211,
+        "precio_total": 11486098,
+        "precio_m2": 54436.48341,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 150,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Lanka (Torre A)",
+    "lat": 25.660173,
+    "lng": -100.13133,
+    "municipio": null,
+    "zona": "Huasteca",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [2],
+    "amenidades": [
+      "am_gym",
+      "am_bar",
+      "am_paqueteria",
+      "am_lobby",
+      "am_salon_de_eventos",
+      "am_salon_social",
+      "am_ludoteca",
+      "am_bodega",
+      "am_terraza"
+    ],
+    "units": [
+      {
+        "m2": 91,
+        "precio_total": 5876581,
+        "precio_m2": 64577.81319,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 105,
+        "precio_total": 6966846,
+        "precio_m2": 66350.91429,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 119,
+        "precio_total": 7214248,
+        "precio_m2": 60623.93277,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Lanka (Torre B)",
+    "lat": 25.660173,
+    "lng": -100.12483,
+    "municipio": null,
+    "zona": "Huasteca",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "2024",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [2],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 91.43,
+        "precio_total": 5556550,
+        "precio_m2": 60773.81603,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 157.55,
+        "precio_total": 7358608,
+        "precio_m2": 46706.49318,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 119.27,
+        "precio_total": 6857260,
+        "precio_m2": 57493.58598,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Distrito Domo",
+    "lat": 25.707956,
+    "lng": -100.09833,
+    "municipio": null,
+    "zona": "Distrito Tesla",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [2, 3],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 75,
+        "precio_total": 3929808,
+        "precio_m2": 52397.44,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 80,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 2,
+        "forma_de_entrega": "Terminado"
+      },
+      {
+        "m2": 95,
+        "precio_total": 4837195,
+        "precio_m2": 50917.84211,
+        "recamaras": 3,
+        "forma_de_entrega": "Terminado"
+      }
+    ]
+  },
+  {
+    "proyecto": "La Toscana",
+    "lat": 25.712711,
+    "lng": -100.102821,
+    "municipio": null,
+    "zona": "Distrito Tesla",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [1],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 88,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": 1,
+        "forma_de_entrega": "Totalmente equipado"
+      },
+      {
+        "m2": 98,
+        "precio_total": 3747137,
+        "precio_m2": 38236.09184,
+        "recamaras": 1,
+        "forma_de_entrega": "Totalmente equipado"
+      }
+    ]
+  },
+  {
+    "proyecto": "Arena Domo",
+    "lat": 25.710895,
+    "lng": -100.110089,
+    "municipio": null,
+    "zona": "Distrito Tesla",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "33 meses",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [1, 2, 3],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 64.5,
+        "precio_total": 4453131,
+        "precio_m2": 69040.7907,
+        "recamaras": 1,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 83.8,
+        "precio_total": 5477299,
+        "precio_m2": 65361.56325,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 99.78,
+        "precio_total": 5979753,
+        "precio_m2": 59929.37462,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Agatta",
+    "lat": 25.660293,
+    "lng": -100.463177,
+    "municipio": null,
+    "zona": "Valle Poniente",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "Entrega inmediata",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 50,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 150,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Azuria",
+    "lat": 25.658477,
+    "lng": -100.455909,
+    "municipio": null,
+    "zona": "Valle Poniente",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "2026",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [2, 3],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 75,
+        "precio_total": 7000000,
+        "precio_m2": 93333,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 90,
+        "precio_total": 8000000,
+        "precio_m2": 88888,
+        "recamaras": 2,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 105,
+        "precio_total": 8300000,
+        "precio_m2": 79047,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 135,
+        "precio_total": 9950000,
+        "precio_m2": 73703,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 150,
+        "precio_total": 10500000,
+        "precio_m2": 70000,
+        "recamaras": 3,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "SID",
+    "lat": 25.705017,
+    "lng": -100.110089,
+    "municipio": null,
+    "zona": "Distrito Tesla",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "2026-05-01 00:00:00",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 45,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 65,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 77,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 80,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      },
+      {
+        "m2": 94,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": "Obra blanca"
+      }
+    ]
+  },
+  {
+    "proyecto": "Gran poniente",
+    "lat": 25.703201,
+    "lng": -100.102821,
+    "municipio": null,
+    "zona": "Distrito Tesla",
+    "zona_ciudad": "Poniente",
+    "tipo_de_proyecto": null,
+    "fecha_de_entrega": "3Q 2026",
+    "acepta_airbnb": false,
+    "precio_desde": null,
+    "precio_hasta": null,
+    "recamaras": [],
+    "amenidades": [],
+    "units": [
+      {
+        "m2": 69,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": null
+      },
+      {
+        "m2": 80,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": null
+      },
+      {
+        "m2": 93,
+        "precio_total": null,
+        "precio_m2": null,
+        "recamaras": null,
+        "forma_de_entrega": null
+      }
+    ]
+  }
+]
