@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef, useState } from "react";
-import Map, { Marker, NavigationControl } from "react-map-gl/mapbox";
+import Map, { Marker, NavigationControl, Popup } from "react-map-gl/mapbox";
 import { useCopilotAction, useCopilotReadable } from "@copilotkit/react-core";
 import "mapbox-gl/dist/mapbox-gl.css";
 import type { Project } from "@/app/lib/types";
@@ -250,13 +250,21 @@ export default function ProjectsMap() {
             </div>
           </Marker>
         ))}
-      </Map>
 
-      {selectedProject && (
-        <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-10 w-full max-w-md px-4">
-          <InvestmentCard project={selectedProject} status="complete" />
-        </div>
-      )}
+        {selectedProject && (
+          <Popup
+            longitude={selectedProject.lng}
+            latitude={selectedProject.lat}
+            anchor="bottom"
+            offset={20}
+            closeButton={false}
+            onClose={() => setSelectedProject(null)}
+            maxWidth="420px"
+          >
+            <InvestmentCard project={selectedProject} status="complete" />
+          </Popup>
+        )}
+      </Map>
     </div>
   );
 }
