@@ -21,4 +21,5 @@ export interface Project {
   acepta_airbnb: boolean;
   amenidades: string[];
   units: Unit[];
+  investment_score?: number;
 }

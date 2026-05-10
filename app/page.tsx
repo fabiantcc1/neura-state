@@ -5,7 +5,12 @@ export default function Home() {
   return (
     <main className="relative flex-1">
       <MapWrapper />
-      <CopilotSidebar />
+      <CopilotSidebar
+        defaultOpen={true}
+        labels={{
+          welcomeMessageText: "¿En qué zona de NL buscas invertir?",
+        }}
+      />
     </main>
   );
 }
